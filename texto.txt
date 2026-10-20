@@ -1,0 +1,4 @@
+Este é um arquivo de exemplo para o trabalho prático de persistência de dados com Python.
+O programa realiza leitura de arquivos, separa o conteúdo em palavras e compara algoritmos.
+Bubble Sort e Selection Sort são métodos didáticos de ordenação.
+O método nativo do Python costuma ser mais eficiente para listas maiores.
